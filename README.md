@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+😎🤙
+
 <!--
 **Luki2183/Luki2183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
